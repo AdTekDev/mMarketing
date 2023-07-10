@@ -20,5 +20,38 @@
 17. A/B Testing được thực hiện ra sao và sẽ mang lại kết quả gì cho xu hướng gia tăng trải nghiệm người dùng   
 18. QR Code được áp dụng ra sao trong tiếp thị di động ? Các tình huống nào cụ thể mà bạn biết và ích lợi mang lại trong các tình huống đó   
 
+## Ví dụ về ROI  
+
+### Công thức 1: 
+ROI = (Lợi nhuận ròng / Chi phí đầu tư) x 100%   
+Trong đó:  
+- Lợi nhuận ròng (hay còn gọi là lợi nhuận sau thuế) = Tổng doanh thu – Chi phí đầu tư.  
+- Chi phí đầu tư = Chi phí cố định + chi phí biến đổi
+
+![image](https://github.com/AdTekDev/mMarketing/assets/18588011/fba73390-441e-456b-bada-d3bc43dc8f50)  
+
+### Công thức 2:   
+ROI = [ (Lợi nhuận sau cùng – Lợi nhuận ban đầu) / Chi phí đầu tư ] x 100%   
+
+### ROI cho chiến dịch marketing:  
+
+ROI Marketing = (Tổng doanh thu – Chi phí Marketing) / Chi phí Marketing
+
+### Tính ROI thông qua giá trị vòng đời của khách hàng (CLV)  
+
+CLV = (Tỷ lệ duy trì) / (1 Tỷ lệ chiết khấu / Tỷ lệ duy trì)  
+  
+### VD 01.
+Giả sử bạn là chủ Shop quần áo, bạn quyết định bỏ ra số tiền là 100.000$ để thiết kế showroom trưng bày hoành tráng, chuyên nghiệp hơn. 3 Tháng sau, cửa hàng của bạn thu về 300.000$.Vậy khi này lợi tức đầu tư có thể tính như sau:  
+  
+ROI = (300.000 – 100.000) / 100.000 X 100% = ?  
+  
+Như vậy là sau 3 tháng kinh doanh với mỗi 1$ đầu tư vào việc tư sửa mở rộng nhà hàng, thì bạn đã thu được 5$ lợi nhuận ròng.  
+
+
+### VD 02.
+Doanh số bán hàng là 100.000.000, chi phí cho chiến dịch Marketing là 10.000.000, ta tính được ROI cho chiến dịch này là 900%.  
+(100.000.000 – 10.000.000) / 10.000.000 = 900%   
+
 
 
