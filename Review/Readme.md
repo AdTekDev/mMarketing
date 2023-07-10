@@ -20,7 +20,7 @@
 17. A/B Testing được thực hiện ra sao và sẽ mang lại kết quả gì cho xu hướng gia tăng trải nghiệm người dùng   
 18. QR Code được áp dụng ra sao trong tiếp thị di động ? Các tình huống nào cụ thể mà bạn biết và ích lợi mang lại trong các tình huống đó   
 
-## Ví dụ về ROI  
+## Ví dụ về ROI  (Return On Investment - đo hiệu suất lợi nhuận do đầu tư mang lại)  
 
 ### Công thức 1: 
 ROI = (Lợi nhuận ròng / Chi phí đầu tư) x 100%   
