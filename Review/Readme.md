@@ -46,7 +46,7 @@ Giả sử bạn là chủ Shop quần áo, bạn quyết định bỏ ra số t
   
 ROI = (300.000 – 100.000) / 100.000 X 100% = ?  
   
-Như vậy là sau 3 tháng kinh doanh với mỗi 1$ đầu tư vào việc tư sửa mở rộng nhà hàng, thì bạn đã thu được 5$ lợi nhuận ròng.  
+Như vậy là sau 3 tháng kinh doanh với mỗi 1$ đầu tư vào việc tư sửa mở rộng nhà hàng, thì bạn đã thu được 2$ lợi nhuận ròng.  
 
 
 ### VD 02.
