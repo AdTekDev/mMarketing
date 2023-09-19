@@ -21,4 +21,7 @@ T08. A/B Testing
 ## Case Study
 
 
+## Tele
+- https://t.me/+bLmk9k5Y38dhM2Y1
+  
 
