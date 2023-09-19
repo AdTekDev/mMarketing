@@ -2,9 +2,9 @@
 # Seminar
 
 Nội Dung: (5)  
-- Đầy đủ
-- Hệ thống
-- Vấn đề + Đặc tính + Giải pháp + Các bước thực hiện + Đo lường
+- Đầy đủ  
+- Hệ thống  
+- Vấn đề + Đặc tính + Giải pháp + Các bước thực hiện + Đo lường  
   
 Ví dụ áp dụng: (2) (case study ví dụ trong sách)  
 	- Tình huống 
