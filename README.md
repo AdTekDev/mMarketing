@@ -22,6 +22,6 @@ T08. A/B Testing
 
 
 ## Tele
-- https://t.me/+bLmk9k5Y38dhM2Y1
+- https://t.me/+Jq2Xc8KrPQs2NThl 
   
 
