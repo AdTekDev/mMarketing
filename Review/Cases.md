@@ -15,3 +15,12 @@ Ban lãnh đạo muốn sử dụng công nghệ AR (Augmented Reality), VR (Vir
 
 Nhiệm Vụ  
 Hãy lập kế hoạch và phân tích một chiến dịch marketing toàn diện mà tập trung sử dụng AR, VR, và MR để quảng bá sản phẩm mới này.   
+
+
+## case 24.07-02  
+
+Theo trào lưu lướt ván phản lực, thuyền phao, chèo SUP ... Công ty Inno đã tiến hành pháp triển sản phẩm mới ván lướt sóng phản lực bằng động cơ (Jet Surfboard). Ban lãnh đạo Inno cũng muốn sử dụng công nghệ AR (Augmented Reality), VR (Virtual Reality), và MR (Mixed Reality) để tạo chiến dịch tiếp thị ấn tượng và tăng trải nghiệm khách hàng.
+
+Xác định các yếu tố cần có để tăng trải nghiệm khách hàng trong ứng dụng AR VR của chiến dịch này.
+
+![Uploading image.png…]()
