@@ -19,7 +19,7 @@ Hãy lập kế hoạch và phân tích một chiến dịch marketing toàn di�
 
 ## case 24.07-02  
 
-Theo trào lưu lướt ván phản lực, thuyền phao, chèo SUP ... Công ty Inno đã tiến hành pháp triển sản phẩm mới ván lướt sóng phản lực bằng động cơ (Jet Surfboard). Ban lãnh đạo Inno cũng muốn sử dụng công nghệ AR (Augmented Reality), VR (Virtual Reality), và MR (Mixed Reality) để tạo chiến dịch tiếp thị ấn tượng và tăng trải nghiệm khách hàng.
+Theo trào lưu lướt ván phản lực, thuyền phao, chèo SUP ... Công ty Inno đã tiến hành phát triển sản phẩm mới ván lướt sóng phản lực bằng động cơ (Jet Surfboard). Ban lãnh đạo Inno cũng muốn sử dụng công nghệ AR (Augmented Reality), VR (Virtual Reality), và MR (Mixed Reality) để tạo chiến dịch tiếp thị ấn tượng và tăng trải nghiệm khách hàng.
 
 Xác định các yếu tố cần có để tăng trải nghiệm khách hàng trong ứng dụng AR VR của chiến dịch này.
 
